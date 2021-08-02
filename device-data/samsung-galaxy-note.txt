@@ -1,0 +1,21 @@
+# Samsung Galaxy Note
+N900         Note III           # SM-N9005 (hlte)
+N910         Note 4             # SM-N910C (trelte)
+N915         Note Edge          # SM-N915W8 (tbltecan)
+N916         Note 4             # SM-N916S (tre3calteskt)
+N920         Note 5 Duos        # SM-N920C (noblelte)
+N935         Note FE            # SM-N935F (gracerlte)
+N950         Note 8             # SM-N950F (greatlte)
+N960         Note 9             # SM-N960F (crownlte)
+
+N970         Note 10            # SM-N970F (d1)
+N971         Note 10 5G         # SM-N971N (d1x)
+N975         Note 10+           # SM-N975F (d2s) / SM-N975U (d2q)
+N976         Note 10+ 5G        # SM-N976N (d2x)
+
+N980         Note 20            # SM-N980F (c1s)
+N981         Note 20 5G         # SM-N981N (c1q)
+N986         Note 20 Ultra 5G   # SM-N986B (c2s) / SM-N986U (c2q)
+
+# Samsung Galaxy Note Lite
+N770         Note 10 Lite       # SM-N770F (r7)
