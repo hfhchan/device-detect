@@ -1,0 +1,83 @@
+# P Series
+EVA-L09     Huawei P9
+VIE-L29     Huawei P9 Plus
+VTR-L09     Huawei P10
+EML-L29     Huawei P20
+ELE-L29     Huawei P30
+
+VKY-L29     Huawei P10 Plus
+CLT-L29     Huawei P20 Pro
+VOG-L29     Huawei P30 Pro
+
+ALE-L21     Huawei P8 Lite
+PRA-LX1     Huawei P8 Lite (2017)
+SLA-L22     Huawei P9 Lite Mini
+WAS-LX1A    Huawei P10 Lite
+ANE-LX1     Huawei P20 Lite
+MAR-LX1A    Huawei P30 Lite
+
+# Mate Series
+MHA-L29     Huawei Mate 9
+ALP-L29     Huawei Mate 10
+HMA-L29     Huawei Mate 20
+EVR-L29     Huawei Mate 20 X
+
+BLA-L29     Huawei Mate 10 Pro
+LYA-L29     Huawei Mate 20 Pro
+LIO-L29     Huawei Mate 30 Pro
+
+RNE-L21     Huawei Mate 10 Lite
+SNE-LX1     Huawei Mate 20 Lite
+
+NEO-L29     Huawei Mate RS Porsche Design
+
+# Y series
+MYA-L22     Huawei Y5 (2017)
+AMN-LX9     Huawei Y5 (2019)
+DRA-LX3     Huawei Y5 Prime (2018)
+ATU-L21     Huawei Y6 (2018)
+MRD-LX1F    Huawei Y6 (2019)
+JAT-LX1     Huawei Y6s (2019)
+JKM-LX3     Huawei Y8s/Y9 2019
+DUB-LX1     Huawei Y7 (2019)
+LDN-L21     Huawei Y7 Prime (2018)
+STK-L21     Huawei Y9 Prime 2019
+
+# Honor series
+KIW-L21     Huawei Honor 5X
+BLL-L22     Huawei Honor 6X/Mate 9 Lite
+AUM-L41     Huawei Honor 7C
+BND-L21     Huawei Honor 7X
+DUK-L09     Huawei Honor 8 Pro
+JSN-L22     Huawei Honor 8X/9X Lite
+STF-L09     Huawei Honor 9
+LLD-L31     Huawei Honor 9 Lite
+COL-L29     Huawei Honor 10
+HRY-LX1     Huawei Honor 10 Lite
+HRY-LX1T    Huawei Honor 10i/20 Lite
+
+BKL-L09     Huawei Honor View 10
+PCT-L29     Huawei Honor View 20
+
+RVL-AL09    Huawei Honor Note 10
+
+# Other smartphones
+FIG-LX1     Huawei P smart/Huawei Enjoy 7S
+POT-LX1     Huawei P Smart 2019
+
+PAR-LX9     Huawei nova 3
+INE-LX1     Huawei nova 3i
+INE-LX2     Huawei nova 3i
+YAL-L21     Huawei nova 5T
+WLZ-AN00    Huawei nova 6 5G
+
+MT7-TL10    Huawei Ascend Mate7
+
+# Tablets
+AGS-L09     Huawei MediaPad T3 10
+AGS2-W09    Huawei MediaPad T5
+BAH2-W19    Huawei MediaPad M5 Lite
+JDN2-L09    Huawei MediaPad M5 Lite 8.0
+
+M2-802L     Huawei MediaPad M2 8.0
+M2-A01L     Huawei MediaPad M2 10.0
