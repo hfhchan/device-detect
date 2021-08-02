@@ -1,3 +1,6 @@
+# Samsung Galaxy Alpha
+G850        Alpha           # SM-G850W (sltecan)
+
 # Samsung Galaxy A Series (Second Generation - 2016)
 A310        A3 (2016)       # SM-A310F (a3xelte)
 A510        A5 (2016)       # SM-A510F (a5xelte)
