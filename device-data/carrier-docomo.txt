@@ -91,6 +91,7 @@ L-51A       LG V60 ThinQ 5G
 d-01G       Huawei dtab d-01G
 d-01J       Huawei dtab Compact d-01J
 d-02K       Huawei dtab Compact d-02K
+d-02H       HUAWEI dtab Compact d-02H
 
 # Tablets by Lenovo
 d-42A       Lenovo dtab Compact d-42A

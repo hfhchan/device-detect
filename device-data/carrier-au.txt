@@ -62,6 +62,7 @@ SHG03       Sharp AQUOS sense5G
 KYV31       Kyocera URBANO V01
 KYV34       Kyocera URBANO V02
 KYV38       Kyocera URBANO V03
+KYV42       Kyocera Qua phone QX
 KYV46       Kyocera TORQUE G04
 KYV47       Kyocera BASIO4
 

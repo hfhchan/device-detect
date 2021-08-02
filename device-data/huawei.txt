@@ -8,6 +8,7 @@ ELE-L29     Huawei P30
 VKY-L29     Huawei P10 Plus
 CLT-L29     Huawei P20 Pro
 VOG-L29     Huawei P30 Pro
+ELS-NX9     Huawei P40 Pro
 
 ALE-L21     Huawei P8 Lite
 PRA-LX1     Huawei P8 Lite (2017)
@@ -48,6 +49,7 @@ KIW-L21     Huawei Honor 5X
 BLL-L22     Huawei Honor 6X/Mate 9 Lite
 AUM-L41     Huawei Honor 7C
 BND-L21     Huawei Honor 7X
+FRD-L09     Huawei Honor 8
 DUK-L09     Huawei Honor 8 Pro
 JSN-L22     Huawei Honor 8X/9X Lite
 STF-L09     Huawei Honor 9
