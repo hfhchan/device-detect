@@ -1,0 +1,28 @@
+# Tablets
+TB-7305F            Lenovo Tab M7
+TB-7504X            Lenovo Tab 7
+TB-8504F            Lenovo Tab 4 8
+TB-8505F            Lenovo Tab M8 HD
+TB-8505FS           Lenovo Tab M8 HD
+TB-8705F            Lenovo Tab M8 FHD
+TB-J606L            Lenovo Tab P11
+TB-X306F            Lenovo Tab M10
+TB-X505F            Lenovo Tab M10
+TB-X505L            Lenovo Tab M10 HD
+TB-X606F            Lenovo Smart Tab M10 FHD Plus
+TB-X606X            Lenovo Smart Tab M10 FHD Plus
+
+YT-X705F            Lenovo Yoga Smart Tab YT-X705F
+YT3-X50F            Lenovo Yoga Tab 3
+
+PB1-770M            Lenovo Phab Plus
+PB2-650M            Lenovo Phab2
+PB2-670M            Lenovo Phab2 Plus
+
+			
+# Smartphones
+A6010               Lenovo A6010
+K50a40              Lenovo K3 Note
+
+# MEDION Tablets
+LIFETAB E1070X      Medion LifeTab E1070X
