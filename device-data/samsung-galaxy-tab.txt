@@ -1,0 +1,51 @@
+# Samsung Galaxy Tab 3
+T116        Tab 3 V             # SM-T116 (goyave3g)
+T310        Tab 3 8.0           # SM-T310 (lt01wifi)
+
+# Samsung Galaxy Tab 4
+T230        Tab 4 7.0           # SM-T230 (degaswifi)
+T237        Tab 4 7.0           # SM-T237P (degasltespr)
+T337        Tab 4 8.0           # SM-T337A (milletlteatt)
+
+# Samsung Galaxy Tab E
+T377        Tab E 8.0           # SM-T377V (gtesltevzw)
+T560        Tab E 9.6           # SM-T560 (gtelwifi)
+T561        Tab E 9.6           # SM-T561 (gtel3g)
+
+# Samsung Galaxy Tab S (8.0")
+T700        Tab S 8.4           # SM-T700 (klimtwifi)
+T713        Tab S2 8.0          # SM-T713 (gts28vewifi)
+T715        Tab S2 8.0          # SM-T715 (gts28lte)
+
+# Samsung Galaxy Tab S (9.7" / 10.5")
+T800        Tab S 10.5          # SM-T800 (chagallwifi)
+T813        Tab S2 9.7          # SM-T813 (gts210vewifi)
+T817        Tab S2 9.7          # SM-T817V (gts210ltevzw)
+T820        Tab S3 9.7          # SM-T820 (gts3lwifi)
+T830        Tab S4 10.5         # SM-T830 (gts4lwifi)
+T835        Tab S4 10.5         # SM-T835 (gts4llte)
+T720        Tab S5e             # SM-T720 (gts4lvwifi)
+T725        Tab S5e             # SM-T725 (gts4lv)
+T860        Tab S6              # SM-T860 (gts6lwifi)
+T865        Tab S6              # SM-T865 (gts6l)
+T870        Tab S7              # SM-T870 (gts7lwifi)
+T875        Tab S7              # SM-T875 (gts7l)
+
+# Samsung Galaxy Tab S (12.4")
+T970        Tab S7+             # SM-T970 (gts7xlwifi)
+T975        Tab S7+             # SM-T975N (gts7xl)
+T735        Tab S7 FE           # SM-T735N (gts7xllite)
+
+# Samsung Galaxy Note with Pen
+P600        Note 10.1 (2014)    # SM-P600 (lt03wifi)        # released in 2014
+
+# Samsung Galaxy Tab Active
+T365        Tab Active          # SM-T365F0 (rubensltekx)   # released in 2014
+T575        Tab Active3         # SM-T575 (gtactive3)       # released in 2020
+
+# Samsung Galaxy View
+T670        View                # SM-T670 (gvwifiue)        # released in 2015 Q4
+
+# Misc
+T520        Tab Pro 10.1        # SM-T520 (picassowifi)     # released in 2014 Q1
+T583        Tab Advanced2       # SM-T583 (gtaxladwifikx)   # released in 2018 Q4
