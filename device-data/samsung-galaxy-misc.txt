@@ -1,0 +1,37 @@
+# Fold
+F900        Fold            # c.f.: https://security.samsungmobile.com/workScope.smsb
+F907        Fold 5G         # SM-F907N (winner)
+F916        Z Fold2 5G      # SM-F916N (f2q)
+F700        Z Flip          # SM-F700N (bloomq)
+F707        Z Flip 5G       # SM-F707N (bloomxq)
+
+# C Series
+C900        C9 Pro          # SM-C900F (c9lte)
+
+# E Series
+E500        E5              # SM-E500H (e53g)
+
+# Misc
+G361        Core Prime      # SM-G361H (coreprimeve3g)
+G390        Xcover 4        # SM-G390F (xcover4lte)
+G398        Xcover 4s       # SM-G398FN (xcover4s)
+
+GT-I9060I   Grand Neo       # GT-I9060I (grandneove3g)
+
+# J and On series
+G532        J2 Prime        # SM-G532M (grandpplte)
+G570        J5 Prime        # SM-G570M (on5xelte)
+G600        On7             # SM-G600FY (o7lte)
+G610        J7 Prime        # SM-G610F (on7xelte)
+G611        J7 Prime 2      # SM-G611F (on7xreflte)
+....        On7 Prime       # SM-G611K (on7xrefltektt)
+G615        J7 Max          # SM-G615F (j7maxlte)
+
+# Carrier Locked Models
+S260DL      J2 Core         # SM-S260DL (j2corepltetfntmo)
+S367VL      J3 (2018)       # SM-S367VL (j3topeltetfnvzw)   # aka "J3 Orbit"
+S727VL      J7 V            # SM-S727VL (j7popqltetfnvzw)   # aka "J7 Sky Pro"
+S757BL      J7 (2018)       # SM-S757BL (j7topltetfntmo)    # aka "J7 Crown"
+S767VL      J7 (2018)       # SM-S767VL (j7topeltetfnvzw)   # aka "J7 Crown"
+
+SCH-I545    S4              # SCH-I545 (jfltevzw)           # Verizon model of S4 (CDMA)
