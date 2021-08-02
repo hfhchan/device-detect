@@ -1,0 +1,31 @@
+# Zenfone
+ASUS_Z017DA     ZE520KL     Asus ZenFone 3
+ASUS_X00HD                  Asus ZenFone 4 Max
+ASUS_X00LD                  Asus ZenFone 4 Selfie
+ASUS_X00QD                  Asus ZenFone 5
+
+ASUS_X00TD      ZB602KL     Asus ZenFone Max Pro
+
+ASUS_I01WD                  Asus ZenFone 6
+ASUS_I002D                  Asus ZenFone 7
+ASUS_I004D                  Asus ZenFone 8
+ASUS_I006D                  Asus ZenFone 8 Mini
+
+ASUS_X00TDB                 Asus ZenFone Max Pro (M1)
+ASUS_X01AD                  Asus ZenFone Max (M2)
+ASUS_X01BDA                 Asus ZenFone Max Pro (M2)
+
+ASUS_Z012DA     ZE552KL     Asus ZenFone 3
+ASUS_Z01RD                  Asus ZenFone 5Z
+
+# ROG Phone
+ASUS_Z01QD      ZS600KL     Asus ROG Phone
+ASUS_I003DD                 Asus ROG Phone 3 Strix
+ASUS_I005DA                 Asus ROG Phone 5
+
+
+# ZenPad
+P002            Z370KL      Asus ZenPad 7.0
+P024            Z380KL      Asus ZenPad 8.0
+P008            Z581KL      Asus ZenPad 3 8.0
+P00I            ZT500KL     Asus ZenPad Z10
