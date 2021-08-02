@@ -1,0 +1,39 @@
+# Flagship Devices
+G900        S5              # SM-G900F (klte)
+
+G920        S6              # SM-G920F (zeroflte)
+G925        S6 edge         # SM-G925F (zerolte)
+G928        S6 edge+        # SM-G928F (zenlte)
+
+G930        S7              # SM-G930F (herolte)
+G935        S7 edge         # SM-G935F (hero2lte)
+
+G950        S8              # SM-G950F (dreamlte)
+G955        S8+             # SM-G955F (dream2lte)
+
+G960        S9              # SM-G960F (starlte)
+G965        S9+             # SM-G965F (star2lte)
+
+G970        S10e            # SM-G970F (beyond0)
+G973        S10             # SM-G973F (beyond1)
+G975        S10+            # SM-G975F (beyond2)
+G977        S10 5G          # SM-G977N (beyondx) / SM-G977N (x86)
+
+G980        S20             # SM-G980F (x1s)
+G981        S20 5G          # SM-G981U (x1q)
+G985        S20+            # SM-G985F (y2s)
+G986        S20+ 5G         # SM-G986U (y2q)
+G988        S20 Ultra 5G    # SM-G988B (z3s) / SM-G988U (z3q)
+
+G991        S21 5G          # SM-G991B (o1s) / SM-G991U (o1q)
+G996        S21+ 5G         # SM-G996B (t2s) / SM-G996U (t2q)
+G998        S21 Ultra 5G    # SM-G998B (p3s) / SM-G998U (p3q)
+
+# G7xx
+G770        S10 Lite        # SM-G770F (r5q)
+G780        S20 FE          # SM-G780F (r8s)
+G781        S20 FE 5G       # SM-G781U (r8q)
+
+# G8xx
+G800        S5 mini         # SM-G800F (kminilte)
+G892        S8 Active       # SM-G892U (cruiserltesq)
