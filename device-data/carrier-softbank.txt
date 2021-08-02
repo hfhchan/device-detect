@@ -1,0 +1,36 @@
+# Sony
+502SO       Sony Xperia X Performance
+602SO       Sony Xperia XZs
+701SO       Sony Xperia XZ1
+702SO       Sony Xperia XZ2
+801SO       Sony Xperia XZ3
+802SO       Sony Xperia 1
+901SO       Sony Xperia 5
+902SO       Sony Xperia 8
+A001SO      Sony Xperia 10 II
+A002SO      Sony Xperia 5 II
+A102SO      Sony Xperia 10 III
+
+# Sharp
+506SH       Sharp AQUOS Xx3
+605SH       Sharp AQUOS R
+606SH       Sharp AQUOS ea
+701SH       Sharp AQUOS R compact
+704SH       Sharp シンプルスマホ4
+706SH       Sharp AQUOS R2
+803SH       Sharp AQUOS R2 compact
+808SH       Sharp AQUOS R3
+901SH       Sharp AQUOS sense3 plus
+906SH       Sharp AQUOS zero2
+908SH       Sharp AQUOS R5G
+A001SH      Sharp Simple Sumaho 5
+A002SH      Sharp AQUOS zero5G basic
+A003SH      Sharp AQUOS sense4 basic
+A004SH      Sharp AQUOS sense5G
+A101SH      Sharp AQUOS R6
+
+# Oppo
+A101OP      Oppo Reno5 A
+
+# Lenovo
+801LV       Lenovo TAB5
