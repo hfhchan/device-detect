@@ -1,0 +1,22 @@
+# J Series (J3/J5/J7)
+J320        J3 (2016)       # SM-J320F (j3xlte)
+J327        J3 Pro          # SM-J327T1 (j3popeltemtr)
+J330        J3 (2017)       # SM-J330F (j3y17lte)
+J337        J3 (2018)       # SM-J337P (j3topeltespr)
+
+J510        J5 (2016)       # SM-J510FN (j5xnlte)
+J530        J5 (2017)       # SM-J530F (j5y17lte)
+
+J700        J7              # SM-J700F (j7elte)
+J727        J7 V            # SM-J727P (j7popltespr)
+J730        J7 (2017)       # SM-J730F (j7y17lte)
+J737        J7 (2018)       # SM-J737P (j7topeltespr)
+
+# J series (J2/J4/J6/J8 - 2018 onwards)
+J250        J2 Pro          # SM-J250F (j2y18lte)
+J260        J2 Core         # SM-J260M (j2corelte)
+J410        J4 Core         # SM-J410G (j4corelte)
+J415        J4+             # SM-J415F (j4primelte)
+J600        J6              # SM-J600FN (j6lte)
+J610        J6+             # SM-J610F (j6primelte)
+J810        J8              # SM-J810M (j8y18lte)
