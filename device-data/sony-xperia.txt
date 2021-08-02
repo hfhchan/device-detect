@@ -1,0 +1,33 @@
+# Smartphones
+C6833       Sony Xperia Z Ultra
+D6503       Sony Xperia Z2
+F5122       Sony Xperia X
+F5321       Sony Xperia X Compact
+G3223       Sony Xperia XA1 Ultra
+G3311       Sony Xperia L1
+G8142       Sony Xperia XZ Premium Dual
+G8232       Sony Xperia XZs
+G8341       Sony Xperia XZ1
+G8342       Sony Xperia XZ1
+G8441       Sony Xperia XZ1 Compact
+H3113       Sony Xperia XA2
+H8266       Sony Xperia XZ2
+H8324       Sony Xperia XZ2 Compact
+H8416       Sony Xperia XZ3
+I4113       Sony Xperia 10
+I4293       Sony Xperia 10 Plus
+I4312       Sony Xperia L3
+J3173       Sony Xperia Ace
+J9110       Sony Xperia 1
+J9210       Sony Xperia 5
+
+XQ-AQ62     Sony Xperia PRO
+XQ-AS52     Sony Xperia 5 II
+XQ-AT42     Sony Xperia 1 II
+XQ-AT52     Sony Xperia 1 II
+XQ-AU52     Sony Xperia 10 II
+XQ-BT52     Sony Xperia 10 III
+
+# Tablets
+SGP512      Sony Xperia Z2 Tablet
+SGP712      Sony Xperia Z4 Tablet
