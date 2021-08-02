@@ -1,0 +1,35 @@
+# Flagships
+A0001       OnePlus One
+A3003       OnePlus 3
+A3010       OnePlus 3T
+A5000       OnePlus 5
+A5010       OnePlus 5T
+A6000       OnePlus 6
+A6010       OnePlus 6T
+A6013       OnePlus 6T Single
+
+GM1901      OnePlus 7
+GM1911      OnePlus 7 Pro
+GM1915      OnePlus 7 Pro               # T-mobile
+GM1925      OnePlus 7 Pro 5G
+HD1901      OnePlus 7T
+HD1907      OnePlus 7T                  # T-mobile
+HD1911      OnePlus 7T Pro
+HD1925      OnePlus 7T Pro 5G McLaren
+IN2011      OnePlus 8
+IN2017      OnePlus 8                   # T-mobile
+IN2019      OnePlus 8                   # Verizon
+KB2001      OnePlus 8T
+KB2007      OnePlus 8T                  # T-mobile
+LE2117      OnePlus 9                   # T-mobile
+LE2121      OnePlus 9 Pro
+
+# Nord 
+AC2001      OnePlus Nord
+BE2015      OnePlus Nord N100           # Metro
+BE2025      OnePlus Nord N10            # Metro
+BE2028      OnePlus Nord N10            # T-mobile
+BE2029      OnePlus Nord N10
+DE2118      OnePlus Nord N200           # T-mobile
+DN2101      OnePlus Nord 2 5G
+DN2103      OnePlus Nord 2 5G
