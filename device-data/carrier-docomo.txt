@@ -1,0 +1,96 @@
+# Samsung
+SC-04E      Samsung Galaxy S4
+SC-04F      Samsung Galaxy S5
+SC-05G      Samsung Galaxy S6
+SC-02H      Samsung Galaxy S7 edge
+SC-02J      Samsung Galaxy S8
+SC-03J      Samsung Galaxy S8+ 
+SC-02K      Samsung Galaxy S9
+SC-03K      Samsung Galaxy S9+
+SC-03L      Samsung Galaxy S10
+SC-04L      Samsung Galaxy S10+
+SC-51A      Samsung Galaxy S20 5G
+SC-51B      Samsung Galaxy S21 5G
+SC-52A      Samsung Galaxy S20+ 5G
+SC-52B      Samsung Galaxy S21 Ultra 5G
+
+SC-01K      Samsung Galaxy Note 8
+SC-01L      Samsung Galaxy Note 9
+SC-01M      Samsung Galaxy Note 10+
+SC-53A      Samsung Galaxy Note 20 Ultra 5G
+
+SC-02M      Samsung Galaxy A20
+SC-42A      Samsung Galaxy A21
+SC-41A      Samsung Galaxy A41
+SC-54A      Samsung Galaxy A51 5G
+SC-53B      Samsung Galaxy A52 5G
+
+SC-02L      Samsung Galaxy Feel2
+SC-04J      Samsung Galaxy Feel
+
+# Sony
+SO-01G      Sony Xperia Z3
+SO-01H      Sony Xperia Z5
+SO-01J      Sony Xperia XZ
+SO-01K      Sony Xperia XZ1
+SO-01L      Sony Xperia XZ3
+SO-01M      Sony Xperia 5
+SO-02H      Sony Xperia Z5 Compact
+SO-02J      Sony Xperia X Compact
+SO-02K      Sony Xperia XZ1 Compact
+SO-02L      Sony Xperia Ace
+SO-03G      Sony Xperia Z4
+SO-03H      Sony Xperia Z5 Premium
+SO-03J      Sony Xperia XZs
+SO-03K      Sony Xperia XZ2
+SO-03L      Sony Xperia 1
+SO-04H      Sony Xperia X Performance
+SO-04J      Sony Xperia XZ Premium
+SO-04K      Sony Xperia XZ2 Premium
+SO-05F      Sony Xperia Z2 Tablet
+SO-05K      Sony Xperia XZ2 Compact
+SO-41A      Sony Xperia 10 II
+SO-41B      Sony Xperia Ace II
+SO-51A      Sony Xperia 1 II
+SO-51B      Sony Xperia 1 III
+SO-52A      Sony Xperia 5 II
+SO-52B      Sony Xperia 10 III
+
+# Sharp
+SH-01K      Sharp AQUOS sense
+SH-01L      Sharp AQUOS sense2
+SH-01M      Sharp AQUOS zero2
+SH-02J      Sharp AQUOS EVER
+SH-02M      Sharp AQUOS sense3
+SH-03G      Sharp AQUOS ZETA
+SH-03J      Sharp AQUOS R
+SH-03K      Sharp AQUOS R2
+SH-04G      Sharp AQUOS EVER
+SH-04L      Sharp AQUOS R3
+SH-41A      Sharp AQUOS sense4
+SH-51A      Sharp AQUOS R5G
+SH-51B      Sharp AQUOS R6
+SH-53A      Sharp AQUOS sense5G
+
+# Huawei
+HW-01K      Huawei P20 Pro
+HW-02L      Huawei P30 Pro
+
+# Disney Mobile (LG)
+DM-01G      LGE Disney Mobile DM-01G
+DM-01K      LGE Disney Mobile DM-01K
+
+# LG
+L-01K       LG V30+
+L-01L       LG style2
+L-03K       LG style
+L-41A       LG style3
+L-51A       LG V60 ThinQ 5G
+
+# Tablets by Huawei
+d-01G       Huawei dtab d-01G
+d-01J       Huawei dtab Compact d-01J
+d-02K       Huawei dtab Compact d-02K
+
+# Tablets by Lenovo
+d-42A       Lenovo dtab Compact d-42A
