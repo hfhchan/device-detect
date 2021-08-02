@@ -1,0 +1,91 @@
+# Samsung Galaxy A Series (Second Generation - 2016)
+A310        A3 (2016)       # SM-A310F (a3xelte)
+A510        A5 (2016)       # SM-A510F (a5xelte)
+A710        A7 (2016)       # SM-A710L (a7xeltelgt)
+
+# Samsung Galaxy A Series (Third Generation - 2017)
+A320        A3 (2017)       # SM-A320FL (a3y17lte)
+A520        A5 (2017)       # SM-A520F (a5y17lte)
+
+# Samsung Galaxy A Series (Fourth Generation - 2018Q1 onwards)
+A530        A8 (2018)       # SM-A530F (jackpotlte)
+A730        A8+ (2018)      # SM-A730F (jackpot2lte)
+
+# Samsung Galaxy A Series (Fourth Generation - 2018Q2 onwards)
+A600        A6 (2018)       # SM-A600FN (a6lte)
+A605        A6+ (2018)      # SM-A605FN (a6plte)
+A750        A7 (2018)       # SM-A750FN (a7y18lte)
+A920        A9 (2018)       # SM-A920F (a9y18qlte)
+            A9s             # SM-A9200 (a9y18qltechn)
+
+# A series (2018 Q4) for Eastern Asian markets
+G887        A8s             # a8sqltechn, released in 2018 (China)
+            A9 Pro (2019)   # a8sqlteks, released in 2019 (South Korea)
+
+# Samsung Galaxy A Series (Fifth Generation - 2019 onwards)
+A260        A2 Core         # a2corelte (SM-A260G)
+
+A015        A01             # a01q (SM-A015M)
+A105        A10             # a10 (SM-A105F)
+A205        A20             # a20 (SM-A205F)
+A305        A30             # a30 (SM-A305F)
+A405        A40             # a40 (SM-A405FN)
+A505        A50             # a50 (SM-A505FN)
+A705        A70             # a70q (SM-A705FN)
+A805        A80             # r1q (SM-A805F)
+A908        A90 5G          # r3q (SM-A908N)
+
+A102        A10e            # a10e (SM-A102U)
+A202        A20e            # a20e (SM-A202F)
+
+A107        A10s            # a10s (SM-A107F)
+A207        A20s            # a20s (SM-A207M)
+A307        A30s            # a30s (SM-A307FN)
+A507        A50s            # a50s (SM-A507FN)
+
+M105        M10             # m10lte (SM-M105F)
+M205        M20             # m20lte (SM-M205F)
+
+M307        M30s            # m30s (SM-M307F)
+
+# Samsung Galaxy A Series (Sixth Generation - 2020 onwards)
+A013        A01 Core        # a01core (SM-A013M)
+
+A115        A11             # a11q (SM-A115F)
+A215        A21             # a21 (SM-A215U)
+A315        A31             # a31 (SM-A315G)
+A415        A41             # a41 (SM-A415F)
+A515        A51             # a51 (SM-A515F)
+A715        A71             # a71 (SM-A715F)
+
+A516        A51 5G          # a51x (SM-A516N)
+A716        A71 5G          # a71xq (SM-A716U)
+            A Quantum       # a71x (SM-A716S)
+
+A217        A21s            # a21s (SM-A217M)
+
+M115        M11             # m11q (SM-M115F)
+M215        M21             # m21 (SM-M215F)
+M315        M31             # m31 (SM-M315F)
+M515        M51             # m51 (SM-M515F)
+
+# Samsung Galaxy A Series (Seventh Generation - 2021 onwards)
+A022        A02             # a02 (SM-A022F)
+A025        A02s            # a02q (SM-A025F)
+
+A125        A12             # a12u (SM-A125U)
+A325        A32             # a32 (SM-A325F)
+A525        A52             # a52q (SM-A525F)
+A725        A72             # a72q (SM-A725F)
+
+A226        A22 5G          # a22x (SM-A226B)
+A326        A32 5G          # a32x (SM-A326B)
+A426        A42 5G          # a42xq (SM-A426B)
+A526        A52 5G          # a52xq (SM-A526B)
+
+A826        A82 5G          # c.f: https://security.samsungmobile.com/workScope.smsb
+            Quantum 2       # a82xq (SM-A826S)
+
+A528        A52s            # a52sxq (SM-A528B)
+
+M127        M12             # m12 (SM-M127G)
