@@ -1,0 +1,77 @@
+# Samsung
+SCV33       Samsung Galaxy S7 edge
+SCV35       Samsung Galaxy S8+
+SCV36       Samsung Galaxy S8
+SCV37       Samsung Galaxy Note 8
+SCV38       Samsung Galaxy S9
+SCV39       Samsung Galaxy S9+
+SCV40       Samsung Galaxy Note 9
+SCV41       Samsung Galaxy S10
+SCV42       Samsung Galaxy S10+
+SCV43       Samsung Galaxy A30
+SCV44       Samsung Galaxy Fold
+SCV45       Samsung Galaxy Note 10+
+SCV46       Samsung Galaxy A20
+SCV48       Samsung Galaxy A41
+
+SCG01       Samsung Galaxy S20 5G
+SCG02       Samsung Galaxy S20+ 5G
+SCG06       Samsung Galaxy Note 20 Ultra 5G
+SCG07       Samsung Galaxy A51 5G
+SCG08       Samsung Galaxy A32 5G
+SCG09       Samsung Galaxy S21 5G
+SCG10       Samsung Galaxy S21+ 5G
+
+# Sony
+SOV32       Sony Xperia Z5
+SOV33       Sony Xperia X Performance
+SOV34       Sony Xperia XZ
+SOV35       Sony Xperia XZs
+SOV36       Sony Xperia XZ1
+SOV37       Sony Xperia XZ2
+SOV38       Sony Xperia XZ2 Premium
+SOV39       Sony Xperia XZ3
+SOV40       Sony Xperia 1
+SOV41       Sony Xperia 5
+SOV42       Sony Xperia 8
+SOV43       Sony Xperia 10 II
+
+SOG01       Sony Xperia 1 II
+SOG02       Sony Xperia 5 II
+SOG03       Sony Xperia 1 III
+SOG04       Sony Xperia 10 III
+
+# Sharp
+SHV32       Sharp AQUOS SERIE
+SHV39       Sharp AQUOS R
+SHV40       Sharp AQUOS sense
+SHV41       Sharp AQUOS R Compact
+SHV42       Sharp AQUOS R2
+SHV43       Sharp AQUOS sense2
+SHV44       Sharp AQUOS R3
+SHV45       Sharp AQUOS sense3
+SHV46       Sharp AQUOS sense3 plus
+SHV47       Sharp AQUOS zero2
+SHV48       Sharp AQUOS sense3 basic
+
+SHG01       Sharp AQUOS R5G
+SHG03       Sharp AQUOS sense5G
+
+# Kyocera
+# c.f: https://ja.wikipedia.org/wiki/DIGNO#機種
+KYV31       Kyocera URBANO V01
+KYV34       Kyocera URBANO V02
+KYV38       Kyocera URBANO V03
+KYV46       Kyocera TORQUE G04
+KYV47       Kyocera BASIO4
+
+KYG01       Kyocera TORQUE 5G
+
+# Tablets by Kyocera
+KYT32       Kyocera Qua tab QZ8
+
+# Smartphones by LG
+LGV33       Au Qua phone PX
+
+# Tablets by LG
+LGT32       LG Qua Tab PZ
