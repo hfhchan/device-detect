@@ -6,6 +6,7 @@ TB-8505F            Lenovo Tab M8 HD
 TB-8505FS           Lenovo Tab M8 HD
 TB-8705F            Lenovo Tab M8 FHD
 TB-J606L            Lenovo Tab P11
+TB-X104F            Lenovo Tab E10
 TB-X306F            Lenovo Tab M10
 TB-X505F            Lenovo Tab M10
 TB-X505L            Lenovo Tab M10 HD

@@ -26,6 +26,8 @@ LE2121      OnePlus 9 Pro
 
 # Nord 
 AC2001      OnePlus Nord
+BE2012      OnePlus Nord N100           # T-mobile
+BE2013      OnePlus Nord N100
 BE2015      OnePlus Nord N100           # Metro
 BE2025      OnePlus Nord N10            # Metro
 BE2028      OnePlus Nord N10            # T-mobile

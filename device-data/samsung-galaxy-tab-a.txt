@@ -8,6 +8,7 @@ T280        Tab A 7.0 (2016)            # SM-T280 (gtexswifi)
 T285        Tab A 7.0 (2016)            # SM-T285 (gtexslte)
 T580        Tab A 10.1 (2016)           # SM-T580 (gtaxlwifi)
 T585        Tab A 10.1 (2016)           # SM-T585 (gtaxllte)
+T587        Tab A 10.1 (2016)           # SM-T587P (gtaxlqltespr)       # Sprint
 P580        Tab A 10.1 (2016)           # SM-P580 (gtanotexlwifikx)
 P585        Tab A 10.1 (2016)           # SM-P585Y (gtanotexllte)
 
