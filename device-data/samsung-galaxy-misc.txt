@@ -17,6 +17,7 @@ G390        Xcover 4        # SM-G390F (xcover4lte)
 G398        Xcover 4s       # SM-G398FN (xcover4s)
 
 GT-I9060I   Grand Neo       # GT-I9060I (grandneove3g)
+GT-N8000    Note 10.1       # GT-N8000 (p4noterf)
 
 # J and On series
 G532        J2 Prime        # SM-G532M (grandpplte)
@@ -29,6 +30,7 @@ G615        J7 Max          # SM-G615F (j7maxlte)
 
 # Carrier Locked Models
 S260DL      J2 Core         # SM-S260DL (j2corepltetfntmo)
+S357BL      J3 (2018)       # SM-S357BL (j3topltetfntmo)    # aka "J3 Orbit"
 S367VL      J3 (2018)       # SM-S367VL (j3topeltetfnvzw)   # aka "J3 Orbit"
 S727VL      J7 V            # SM-S727VL (j7popqltetfnvzw)   # aka "J7 Sky Pro"
 S757BL      J7 (2018)       # SM-S757BL (j7topltetfntmo)    # aka "J7 Crown"

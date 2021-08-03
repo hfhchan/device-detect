@@ -12,6 +12,7 @@ TB-X505F            Lenovo Tab M10
 TB-X505L            Lenovo Tab M10 HD
 TB-X606F            Lenovo Smart Tab M10 FHD Plus
 TB-X606X            Lenovo Smart Tab M10 FHD Plus
+TB-X606XA           Lenovo Smart Tab M10 FHD Plus       # with Alexa
 
 YT-X705F            Lenovo Yoga Smart Tab YT-X705F
 YT3-X50F            Lenovo Yoga Tab 3

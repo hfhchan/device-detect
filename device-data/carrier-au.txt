@@ -59,10 +59,13 @@ SHG03       Sharp AQUOS sense5G
 
 # Kyocera
 # c.f: https://ja.wikipedia.org/wiki/DIGNO#機種
+KYY23       Kyocera URBANO L03
+
 KYV31       Kyocera URBANO V01
 KYV34       Kyocera URBANO V02
 KYV38       Kyocera URBANO V03
 KYV42       Kyocera Qua phone QX
+KYV43       Kyocera BASIO3
 KYV46       Kyocera TORQUE G04
 KYV47       Kyocera BASIO4
 
@@ -76,3 +79,6 @@ LGV33       Au Qua phone PX
 
 # Tablets by LG
 LGT32       LG Qua Tab PZ
+
+# Tablets by Huawei
+HWT31       Huawei Qua tab 02

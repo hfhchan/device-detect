@@ -1,6 +1,7 @@
 # Smartphones
 C6833       Sony Xperia Z Ultra
 D6503       Sony Xperia Z2
+F3113       Sony Xperia XA
 F5122       Sony Xperia X
 F5321       Sony Xperia X Compact
 G3121       Sony Xperia XA1
@@ -15,6 +16,7 @@ G8342       Sony Xperia XZ1
 G8441       Sony Xperia XZ1 Compact
 H3113       Sony Xperia XA2
 H4113       Sony Xperia XA2 Dual
+H4213       Sony Xperia XA2 Ultra Dual
 H8266       Sony Xperia XZ2
 H8314       Sony Xperia XZ2 Compact
 H8324       Sony Xperia XZ2 Compact

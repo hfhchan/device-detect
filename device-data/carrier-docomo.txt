@@ -57,6 +57,7 @@ SO-52A      Sony Xperia 5 II
 SO-52B      Sony Xperia 10 III
 
 # Sharp
+SH-01H      Sharp AQUOS ZETA
 SH-01K      Sharp AQUOS sense
 SH-01L      Sharp AQUOS sense2
 SH-01M      Sharp AQUOS zero2

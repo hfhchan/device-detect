@@ -1,6 +1,7 @@
 # HTC
 ocla1_sprout                HTC U11 life
 ocnwhl                      HTC U11
+ocndugl                     HTC U11
 ocmdugl         2Q4D100     HTC U11+
 imedugl         2Q55100     HTC U12+
 imldugl         2Q6E100     HTC U12 life

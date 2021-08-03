@@ -35,6 +35,7 @@ NEO-L29     Huawei Mate RS Porsche Design
 # Y series
 MYA-L22     Huawei Y5 (2017)
 AMN-LX9     Huawei Y5 (2019)
+DRA-LX2     Huawei Y5 Prime (2018)
 DRA-LX3     Huawei Y5 Prime (2018)
 ATU-L21     Huawei Y6 (2018)
 MRD-LX1F    Huawei Y6 (2019)
@@ -47,6 +48,7 @@ STK-L21     Huawei Y9 Prime 2019
 # Honor series
 KIW-L21     Huawei Honor 5X
 BLL-L22     Huawei Honor 6X/Mate 9 Lite
+PE-TL10     Huawei Honor 6 Plus
 AUM-L41     Huawei Honor 7C
 BND-L21     Huawei Honor 7X
 FRD-L09     Huawei Honor 8
@@ -75,10 +77,13 @@ WLZ-AN00    Huawei nova 6 5G
 
 MT7-TL10    Huawei Ascend Mate7
 
+Y541-U02    Huawei Y5c
+
 # Tablets
 AGS-L09     Huawei MediaPad T3 10
 AGS2-W09    Huawei MediaPad T5
 BAH2-W19    Huawei MediaPad M5 Lite
+BG2-U01     Huawei MediaPad T3 7.0
 JDN2-L09    Huawei MediaPad M5 Lite 8.0
 
 M2-802L     Huawei MediaPad M2 8.0

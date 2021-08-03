@@ -1,5 +1,6 @@
 # Sony
 502SO       Sony Xperia X Performance
+601SO       Sony Xperia XZ
 602SO       Sony Xperia XZs
 701SO       Sony Xperia XZ1
 702SO       Sony Xperia XZ2

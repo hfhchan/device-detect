@@ -19,6 +19,7 @@ T385        Tab A 8.0 (2017)            # SM-T385 (gta2slte)
 # Samsung Galaxy Tab A (2018)
 T387        Tab A 8.0 (2018)            # SM-T387V (gtasliteltevzw)
 T590        Tab A 10.5 (2018)           # SM-T590 (gta2xlwifi)
+T595        Tab A 10.5 (2018)           # SM-T595 (gta2xllte)
 
 # Samsung Galaxy Tab A (2019)
 T290        Tab A 8.0 (2019)            # SM-T290 (gtowifi)
