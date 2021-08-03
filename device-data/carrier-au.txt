@@ -71,6 +71,7 @@ KYV38       Kyocera URBANO V03
 KYV41       Kyocera TORQUE G03
 KYV42       Kyocera Qua phone QX
 KYV43       Kyocera BASIO3
+KYV44       KYOCERA Qua phone QZ
 KYV45       Kyocera URBANO V04
 KYV46       Kyocera TORQUE G04
 KYV47       Kyocera BASIO4

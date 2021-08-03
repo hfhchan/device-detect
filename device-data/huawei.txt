@@ -45,9 +45,11 @@ DRA-LX3     Huawei Y5 Prime (2018)
 CAM-L21     Huawei Y6II Compact
 ATU-L21     Huawei Y6 (2018)
 MRD-LX1F    Huawei Y6 (2019)
+TIT-U02     Huawei Y6 Pro
 JAT-LX1     Huawei Y6s (2019)
 JKM-LX3     Huawei Y8s/Y9 2019
 DUB-LX1     Huawei Y7 (2019)
+TRT-L21A    Huawei Y7 Prime
 LDN-L21     Huawei Y7 Prime (2018)
 STK-L21     Huawei Y9 Prime 2019
 

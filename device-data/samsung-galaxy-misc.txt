@@ -6,6 +6,7 @@ F700        Z Flip          # SM-F700N (bloomq)
 F707        Z Flip 5G       # SM-F707N (bloomxq)
 
 # C Series
+C700        C7              # SM-C7000 (c7ltechn)
 C900        C9 Pro          # SM-C900F (c9lte)
 
 # E Series
@@ -40,3 +41,4 @@ S767VL      J7 (2018)       # SM-S767VL (j7topeltetfnvzw)   # aka "J7 Crown"
 SCH-I545    S4              # SCH-I545 (jfltevzw)           # Verizon model of S4 (CDMA)
 
 SHV-E250S   Note II         # SHV-E250S (t0lteskt)          # SK Telecom
+SHV-E330K   S4              # SHV-E330K (ks01ltektt)        # KT

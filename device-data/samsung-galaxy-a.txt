@@ -24,8 +24,9 @@ A920        A9 (2018)       # SM-A920F (a9y18qlte)
             A9s             # SM-A9200 (a9y18qltechn)
 
 # A series (2018 Q4) for Eastern Asian markets
-G887        A8s             # a8sqltechn, released in 2018 (China)
-            A9 Pro (2019)   # a8sqlteks, released in 2019 (South Korea)
+G885        A8 Star         # SM-G885F (astarqlte)
+G887        A8s             # SM-G8870 (a8sqltechn), released in 2018 (China)
+....        A9 Pro (2019)   # SM-G887N (a8sqlteks), released in 2019 (South Korea)
 
 # Samsung Galaxy A Series (Fifth Generation - 2019 onwards)
 A260        A2 Core         # a2corelte (SM-A260G)

@@ -14,6 +14,7 @@ G3221       Sony Xperia XA1 Ultra
 G3223       Sony Xperia XA1 Ultra
 G3226       Sony Xperia XA1 Ultra Dual
 G3311       Sony Xperia L1
+G3312       Sony Xperia L1 Dual
 G8141       Sony Xperia XZ Premium
 G8142       Sony Xperia XZ Premium Dual
 G8232       Sony Xperia XZs
@@ -26,6 +27,7 @@ H4213       Sony Xperia XA2 Ultra Dual
 H4493       Sony Xperia XA2 Plus Dual
 H8166       Sony Xperia XZ2 Premium Dual
 H8266       Sony Xperia XZ2
+H8296       Sony Xperia XZ2 Dual
 H8314       Sony Xperia XZ2 Compact
 H8324       Sony Xperia XZ2 Compact
 H8416       Sony Xperia XZ3

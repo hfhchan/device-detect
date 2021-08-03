@@ -23,6 +23,7 @@ IN2017      OnePlus 8                   # T-mobile
 IN2019      OnePlus 8                   # Verizon
 KB2001      OnePlus 8T
 KB2007      OnePlus 8T                  # T-mobile
+LE2111      OnePlus 9
 LE2117      OnePlus 9                   # T-mobile
 LE2121      OnePlus 9 Pro
 LE2127      OnePlus 9 Pro               # T-mobile
