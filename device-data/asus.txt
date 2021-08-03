@@ -26,6 +26,8 @@ ASUS_Z01RD      ZS620KL     Asus ZenFone 5Z
 
 ASUS_A001D      ZB634KL     Asus ZenFone Max Shot
 
+ASUS_X00RD      G553KL      Asus ZenFone Lite L1
+
 # ROG Phone
 ASUS_Z01QD      ZS600KL     Asus ROG Phone
 ASUS_I003DD                 Asus ROG Phone 3 Strix

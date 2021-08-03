@@ -16,6 +16,7 @@ A910        A9 Pro (2016)   # SM-A910F (a9xproltesea)
 # Samsung Galaxy A Series (Third Generation - 2017)
 A320        A3 (2017)       # SM-A320FL (a3y17lte)
 A520        A5 (2017)       # SM-A520F (a5y17lte)
+A720        A7 (2017)       # SM-A720S (a7y17lteskt)
 
 # Samsung Galaxy A Series (Fourth Generation - 2018Q1 onwards)
 A530        A8 (2018)       # SM-A530F (jackpotlte)

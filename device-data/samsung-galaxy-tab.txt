@@ -7,6 +7,7 @@ T310        Tab 3 8.0           # SM-T310 (lt01wifi)
 T230        Tab 4 7.0           # SM-T230 (degaswifi)
 T237        Tab 4 7.0           # SM-T237P (degasltespr)
 T337        Tab 4 8.0           # SM-T337A (milletlteatt)
+T530        Tab 4 10.1          # SM-T530 (matissewifi)
 T535        Tab 4 10.1          # SM-T535 (matisselte)
 
 # Samsung Galaxy Tab Pro
@@ -25,6 +26,7 @@ T719        Tab S2 8.0          # SM-T719 (gts28velte)
 
 # Samsung Galaxy Tab S (9.7" / 10.5")
 T800        Tab S 10.5          # SM-T800 (chagallwifi)
+T805        Tab S 10.5          # SM-T805 (chagalllte)
 T810        Tab S2 9.7          # SM-T810 (gts210wifi)
 T813        Tab S2 9.7          # SM-T813 (gts210vewifi)
 T815        Tab S2 9.7          # SM-T815 (gts210lte)
