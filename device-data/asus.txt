@@ -33,3 +33,4 @@ P002            Z370KL      Asus ZenPad 7.0
 P024            Z380KL      Asus ZenPad 8.0
 P008            Z581KL      Asus ZenPad 3 8.0
 P00I            ZT500KL     Asus ZenPad Z10
+P00L            Z301ML      Asus Zenpad 10 

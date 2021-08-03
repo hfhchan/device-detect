@@ -55,6 +55,7 @@ AUM-L41     Huawei Honor 7C
 DUA-L22     Huawei Honor 7S
 BND-L21     Huawei Honor 7X
 FRD-L09     Huawei Honor 8
+KSA-LX9     Huawei Honor 8S
 DUK-L09     Huawei Honor 8 Pro
 JSN-L22     Huawei Honor 8X/9X Lite
 STF-L09     Huawei Honor 9

@@ -35,6 +35,7 @@ SO-01J      Sony Xperia XZ
 SO-01K      Sony Xperia XZ1
 SO-01L      Sony Xperia XZ3
 SO-01M      Sony Xperia 5
+SO-02G      Sony Xperia Z3 Compact
 SO-02H      Sony Xperia Z5 Compact
 SO-02J      Sony Xperia X Compact
 SO-02K      Sony Xperia XZ1 Compact

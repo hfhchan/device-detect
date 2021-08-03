@@ -40,4 +40,5 @@ XQ-BT52     Sony Xperia 10 III
 
 # Tablets
 SGP512      Sony Xperia Z2 Tablet
+SGP611      Sony Xperia Z3 Tablet Compact
 SGP712      Sony Xperia Z4 Tablet

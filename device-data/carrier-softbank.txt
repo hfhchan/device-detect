@@ -14,6 +14,7 @@ A102SO      Sony Xperia 10 III
 
 # Sharp
 506SH       Sharp AQUOS Xx3
+507SH       Sharp Android One
 605SH       Sharp AQUOS R
 606SH       Sharp AQUOS ea
 701SH       Sharp AQUOS R compact

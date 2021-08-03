@@ -11,6 +11,7 @@ J510        J5 (2016)       # SM-J510FN (j5xnlte)
 J530        J5 (2017)       # SM-J530F (j5y17lte)
 
 J700        J7              # SM-J700F (j7elte)
+J720        J7 Duo          # SM-J720F (j7duolte)
 J727        J7 V            # SM-J727P (j7popltespr)
 J730        J7 (2017)       # SM-J730F (j7y17lte)
 J737        J7 (2018)       # SM-J737P (j7topeltespr)

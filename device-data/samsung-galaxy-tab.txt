@@ -47,6 +47,7 @@ P600        Note 10.1 (2014)    # SM-P600 (lt03wifi)        # released in 2014
 
 # Samsung Galaxy Tab Active
 T365        Tab Active          # SM-T365F0 (rubensltekx)   # released in 2014
+T395        Tab Active2         # SM-T395 (gtactive2lte)    # released in 2017
 T575        Tab Active3         # SM-T575 (gtactive3)       # released in 2020
 
 # Samsung Galaxy View

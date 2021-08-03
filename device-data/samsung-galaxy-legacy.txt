@@ -3,6 +3,7 @@ GT-I9305    S III           # GT-I9305 (m3)
 GT-I9060I   Grand Neo       # GT-I9060I (grandneove3g)
 
 # Note
+GT-N7100    Note II         # GT-N7100 (t03g)
 GT-N8000    Note 10.1       # GT-N8000 (p4noterf)
 
 # Tablets
