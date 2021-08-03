@@ -67,13 +67,16 @@ KYV34       Kyocera URBANO V02
 KYV38       Kyocera URBANO V03
 KYV42       Kyocera Qua phone QX
 KYV43       Kyocera BASIO3
+KYV45       Kyocera URBANO V04
 KYV46       Kyocera TORQUE G04
 KYV47       Kyocera BASIO4
+KYV48       Kyocera GRATINA
 
 KYG01       Kyocera TORQUE 5G
 
 # Tablets by Kyocera
 KYT32       Kyocera Qua tab QZ8
+KYT33       Kyocera Qua tab QA10
 
 # Smartphones by LG
 LGV33       Au Qua phone PX

@@ -23,6 +23,7 @@ KB2001      OnePlus 8T
 KB2007      OnePlus 8T                  # T-mobile
 LE2117      OnePlus 9                   # T-mobile
 LE2121      OnePlus 9 Pro
+LE2127      OnePlus 9 Pro               # T-mobile
 
 # Nord 
 AC2001      OnePlus Nord

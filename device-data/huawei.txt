@@ -1,4 +1,5 @@
 # P Series
+GRA-L09     Huawei P8
 EVA-L09     Huawei P9
 VIE-L29     Huawei P9 Plus
 VTR-L09     Huawei P10
@@ -25,6 +26,7 @@ ALP-L29     Huawei Mate 10
 HMA-L29     Huawei Mate 20
 EVR-L29     Huawei Mate 20 X
 
+LON-L29     Huawei Mate 9 Pro
 BLA-L29     Huawei Mate 10 Pro
 LYA-L29     Huawei Mate 20 Pro
 LIO-L29     Huawei Mate 30 Pro
