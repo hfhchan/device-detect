@@ -52,6 +52,7 @@ DUB-LX1     Huawei Y7 (2019)
 TRT-L21A    Huawei Y7 Prime
 LDN-L21     Huawei Y7 Prime (2018)
 STK-L21     Huawei Y9 Prime 2019
+ARS-L22     Huawei Y Max
 
 # Honor series
 NEM-L51     Huawei Honor 5c
@@ -82,6 +83,7 @@ RVL-AL09    Huawei Honor Note 10
 FIG-LX1     Huawei P smart/Huawei Enjoy 7S
 POT-LX1     Huawei P Smart 2019
 
+CAN-L11     Huawei nova
 PIC-LX9     Huawei nova 2
 PAR-LX9     Huawei nova 3
 INE-LX1     Huawei nova 3i

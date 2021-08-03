@@ -60,6 +60,7 @@ T575        Tab Active3         # SM-T575 (gtactive3)       # released in 2020
 
 # Samsung Galaxy View
 T670        View                # SM-T670 (gvwifiue)        # released in 2015 Q4
+T677        View                # SM-T677V (gvltevzw)       # released in 2015 Q4
 
 # Misc
 T583        Tab Advanced2       # SM-T583 (gtaxladwifikx)   # released in 2018 Q4

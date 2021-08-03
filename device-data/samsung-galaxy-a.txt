@@ -1,6 +1,11 @@
 # Samsung Galaxy Alpha
 G850        Alpha           # SM-G850W (sltecan)
 
+# Samsung Galaxy A Series (First Generation - 2014)
+A300        A3              # SM-A300FU (a3ulte)
+A500        A5              # SM-A500FU (a5ulte)
+A900        A9 (2016)       # SM-A9000 (a9xltechn)
+
 # Samsung Galaxy A Series (Second Generation - 2016)
 A310        A3 (2016)       # SM-A310F (a3xelte)
 A510        A5 (2016)       # SM-A510F (a5xelte)
@@ -77,6 +82,10 @@ M115        M11             # m11q (SM-M115F)
 M215        M21             # m21 (SM-M215F)
 M315        M31             # m31 (SM-M315F)
 M515        M51             # m51 (SM-M515F)
+
+M317        M31s            # m31s (SM-M317F)
+
+F415        F41             # f41 (SM-F415F)        # India
 
 # Samsung Galaxy A Series (Seventh Generation - 2021 onwards)
 A022        A02             # a02 (SM-A022F)
