@@ -50,6 +50,7 @@ LDN-L21     Huawei Y7 Prime (2018)
 STK-L21     Huawei Y9 Prime 2019
 
 # Honor series
+NEM-L51     Huawei Honor 5c
 KIW-L21     Huawei Honor 5X
 BLL-L22     Huawei Honor 6X/Mate 9 Lite
 PE-TL10     Huawei Honor 6 Plus

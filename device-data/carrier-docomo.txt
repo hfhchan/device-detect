@@ -58,6 +58,7 @@ SO-52A      Sony Xperia 5 II
 SO-52B      Sony Xperia 10 III
 
 # Sharp
+SH-02G      Sharp Disney Mobile
 SH-01H      Sharp AQUOS ZETA
 SH-01K      Sharp AQUOS sense
 SH-01L      Sharp AQUOS sense2
@@ -89,6 +90,7 @@ L-01L       LG style2
 L-03K       LG style
 L-41A       LG style3
 L-51A       LG V60 ThinQ 5G
+L-52A       LG Velvet 5G
 
 # Tablets by Huawei
 d-01G       Huawei dtab d-01G

@@ -1,5 +1,6 @@
 # Zenfone
 ASUS_Z017DA     ZE520KL     Asus ZenFone 3
+ASUS_Z01KDA     ZE554KL     Asus ZenFone 4
 ASUS_X00HD                  Asus ZenFone 4 Max
 ASUS_X00LD                  Asus ZenFone 4 Selfie
 ASUS_X00QD                  Asus ZenFone 5

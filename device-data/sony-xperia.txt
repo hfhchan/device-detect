@@ -19,6 +19,8 @@ G8441       Sony Xperia XZ1 Compact
 H3113       Sony Xperia XA2
 H4113       Sony Xperia XA2 Dual
 H4213       Sony Xperia XA2 Ultra Dual
+H4493       Sony Xperia XA2 Plus Dual
+H8166       Sony Xperia XZ2 Premium Dual
 H8266       Sony Xperia XZ2
 H8314       Sony Xperia XZ2 Compact
 H8324       Sony Xperia XZ2 Compact

@@ -2,7 +2,7 @@
 J120        J1 (2016)        # SM-J120W (j1xltecan)
 
 J320        J3 (2016)       # SM-J320F (j3xlte)
-J327        J3 Pro          # SM-J327T1 (j3popeltemtr)
+J327        J3 Emerge       # SM-J327T1 (j3popeltemtr)
 J330        J3 (2017)       # SM-J330F (j3y17lte)
 J337        J3 (2018)       # SM-J337P (j3topeltespr)
 
@@ -11,6 +11,7 @@ J510        J5 (2016)       # SM-J510FN (j5xnlte)
 J530        J5 (2017)       # SM-J530F (j5y17lte)
 
 J700        J7              # SM-J700F (j7elte)
+J710        J7 (2016)       # SM-J710F (j7xelte)
 J720        J7 Duo          # SM-J720F (j7duolte)
 J727        J7 V            # SM-J727P (j7popltespr)
 J730        J7 (2017)       # SM-J730F (j7y17lte)

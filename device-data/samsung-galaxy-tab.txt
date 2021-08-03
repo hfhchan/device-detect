@@ -9,10 +9,18 @@ T237        Tab 4 7.0           # SM-T237P (degasltespr)
 T337        Tab 4 8.0           # SM-T337A (milletlteatt)
 T535        Tab 4 10.1          # SM-T535 (matisselte)
 
+# Samsung Galaxy Tab Pro
+T520        Tab Pro 10.1        # SM-T520 (picassowifi)     # released in 2014 Q1
+
+# Samsung Galaxy Note (Tablets)
+P600        Note 10.1 (2014)    # SM-P600 (lt03wifi)        # released in 2013 Q4
+P900        Note Pro 12.2       # SM-P900 (v1awifi)         # released in 2014 Q1
+
 # Samsung Galaxy Tab S (8.0")
 T700        Tab S 8.4           # SM-T700 (klimtwifi)
 T713        Tab S2 8.0          # SM-T713 (gts28vewifi)
 T715        Tab S2 8.0          # SM-T715 (gts28lte)
+T719        Tab S2 8.0          # SM-T719 (gts28velte)
 
 # Samsung Galaxy Tab S (9.7" / 10.5")
 T800        Tab S 10.5          # SM-T800 (chagallwifi)
@@ -36,9 +44,6 @@ T970        Tab S7+             # SM-T970 (gts7xlwifi)
 T975        Tab S7+             # SM-T975N (gts7xl)
 T735        Tab S7 FE           # SM-T735N (gts7xllite)
 
-# Samsung Galaxy Note with Pen
-P600        Note 10.1 (2014)    # SM-P600 (lt03wifi)        # released in 2014
-
 # Samsung Galaxy Tab E
 T377        Tab E 8.0           # SM-T377V (gtesltevzw)
 T378        Tab E 8.0           # SM-T378V (gtesveltevzw)
@@ -54,5 +59,4 @@ T575        Tab Active3         # SM-T575 (gtactive3)       # released in 2020
 T670        View                # SM-T670 (gvwifiue)        # released in 2015 Q4
 
 # Misc
-T520        Tab Pro 10.1        # SM-T520 (picassowifi)     # released in 2014 Q1
 T583        Tab Advanced2       # SM-T583 (gtaxladwifikx)   # released in 2018 Q4

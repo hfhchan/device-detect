@@ -28,6 +28,7 @@ G615        J7 Max          # SM-G615F (j7maxlte)
 
 # Carrier Locked Models
 S260DL      J2 Core         # SM-S260DL (j2corepltetfntmo)
+S327VL      J3 Emerge       # SM-S327VL (j3popltetfnvzw)    # aka "J3 Luna Pro"
 S357BL      J3 (2018)       # SM-S357BL (j3topltetfntmo)    # aka "J3 Orbit"
 S367VL      J3 (2018)       # SM-S367VL (j3topeltetfnvzw)   # aka "J3 Orbit"
 S727VL      J7 V            # SM-S727VL (j7popqltetfnvzw)   # aka "J7 Sky Pro"
