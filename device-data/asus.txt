@@ -1,9 +1,9 @@
 # Zenfone
 ASUS_Z017DA     ZE520KL     Asus ZenFone 3
 ASUS_Z01KDA     ZE554KL     Asus ZenFone 4
-ASUS_X00HD                  Asus ZenFone 4 Max
-ASUS_X00LD                  Asus ZenFone 4 Selfie
-ASUS_X00QD                  Asus ZenFone 5
+ASUS_X00HD      ZC520KL     Asus ZenFone 4 Max
+ASUS_X00LD      ZD553KL     Asus ZenFone 4 Selfie
+ASUS_X00QD      ZE620KL     Asus ZenFone 5
 
 ASUS_I01WD                  Asus ZenFone 6
 ASUS_I002D                  Asus ZenFone 7
@@ -21,7 +21,7 @@ ASUS_Z012DA     ZE552KL     Asus ZenFone 3
 ASUS_Z01GD      ZS551KL     Asus ZenFone 4 Pro
 ASUS_Z01KD      ZE554KL     Asus ZenFone 4
 ASUS_Z01MD      ZD552KL     Asus ZenFone 4 Selfie Pro
-ASUS_Z01RD                  Asus ZenFone 5Z
+ASUS_Z01RD      ZS620KL     Asus ZenFone 5Z
 
 ASUS_A001D      ZB634KL     Asus ZenFone Max Shot
 
