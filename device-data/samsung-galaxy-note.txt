@@ -18,4 +18,5 @@ N981         Note 20 5G         # SM-N981N (c1q)
 N986         Note 20 Ultra 5G   # SM-N986B (c2s) / SM-N986U (c2q)
 
 # Samsung Galaxy Note Lite
+N750         Note 3 Neo         # SM-N750S (frescolteskt)
 N770         Note 10 Lite       # SM-N770F (r7)

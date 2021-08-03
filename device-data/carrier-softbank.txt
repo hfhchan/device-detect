@@ -25,6 +25,7 @@ A102SO      Sony Xperia 10 III
 808SH       Sharp AQUOS R3
 901SH       Sharp AQUOS sense3 plus
 906SH       Sharp AQUOS zero2
+907SH       Sharp AQUOS sense3 basic
 908SH       Sharp AQUOS R5G
 A001SH      Sharp Simple Sumaho 5
 A002SH      Sharp AQUOS zero5G basic

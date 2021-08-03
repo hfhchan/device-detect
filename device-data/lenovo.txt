@@ -29,5 +29,11 @@ Tab2A7-20F          Lenovo TAB 2 A7
 A6010               Lenovo A6010
 K50a40              Lenovo K3 Note
 
+# Tablet
+A3500-F             Lenovo A7-50 Tablet                 # Wi-Fi
+A3500-H             Lenovo A7-50 Tablet                 # Wi-Fi & 3G (Data only)
+A3500-HV            Lenovo A7-50 Tablet                 # Wi-Fi & 3G (Voice)
+
 # MEDION Tablets
 LIFETAB E1070X      Medion LifeTab E1070X
+LIFETAB E1071X      Medion LifeTab E1071X

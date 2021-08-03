@@ -36,3 +36,5 @@ S757BL      J7 (2018)       # SM-S757BL (j7topltetfntmo)    # aka "J7 Crown"
 S767VL      J7 (2018)       # SM-S767VL (j7topeltetfnvzw)   # aka "J7 Crown"
 
 SCH-I545    S4              # SCH-I545 (jfltevzw)           # Verizon model of S4 (CDMA)
+
+SHV-E250S   Note II         # SHV-E250S (t0lteskt)          # SK Telecom

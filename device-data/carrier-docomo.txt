@@ -58,11 +58,12 @@ SO-52A      Sony Xperia 5 II
 SO-52B      Sony Xperia 10 III
 
 # Sharp
-SH-02G      Sharp Disney Mobile
+SH-01G      Sharp AQUOS ZETA
 SH-01H      Sharp AQUOS ZETA
 SH-01K      Sharp AQUOS sense
 SH-01L      Sharp AQUOS sense2
 SH-01M      Sharp AQUOS zero2
+SH-02G      Sharp Disney Mobile
 SH-02J      Sharp AQUOS EVER
 SH-02M      Sharp AQUOS sense3
 SH-03G      Sharp AQUOS ZETA

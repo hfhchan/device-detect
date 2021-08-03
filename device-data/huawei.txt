@@ -37,6 +37,7 @@ SNE-LX1     Huawei Mate 20 Lite
 NEO-L29     Huawei Mate RS Porsche Design
 
 # Y series
+CAG-L22     Huawei Y3 (2018)
 MYA-L22     Huawei Y5 (2017)
 AMN-LX9     Huawei Y5 (2019)
 DRA-LX2     Huawei Y5 Prime (2018)

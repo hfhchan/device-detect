@@ -1,4 +1,5 @@
 # HTC
+pmewhl          2PS64       HTC 10
 ocla1_sprout                HTC U11 life
 ocnwhl                      HTC U11
 ocndugl                     HTC U11
