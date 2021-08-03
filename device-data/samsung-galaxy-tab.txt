@@ -9,12 +9,6 @@ T237        Tab 4 7.0           # SM-T237P (degasltespr)
 T337        Tab 4 8.0           # SM-T337A (milletlteatt)
 T535        Tab 4 10.1          # SM-T535 (matisselte)
 
-# Samsung Galaxy Tab E
-T377        Tab E 8.0           # SM-T377V (gtesltevzw)
-T378        Tab E 8.0           # SM-T378V (gtesveltevzw)
-T560        Tab E 9.6           # SM-T560 (gtelwifi)
-T561        Tab E 9.6           # SM-T561 (gtel3g)
-
 # Samsung Galaxy Tab S (8.0")
 T700        Tab S 8.4           # SM-T700 (klimtwifi)
 T713        Tab S2 8.0          # SM-T713 (gts28vewifi)
@@ -44,6 +38,12 @@ T735        Tab S7 FE           # SM-T735N (gts7xllite)
 
 # Samsung Galaxy Note with Pen
 P600        Note 10.1 (2014)    # SM-P600 (lt03wifi)        # released in 2014
+
+# Samsung Galaxy Tab E
+T377        Tab E 8.0           # SM-T377V (gtesltevzw)
+T378        Tab E 8.0           # SM-T378V (gtesveltevzw)
+T560        Tab E 9.6           # SM-T560 (gtelwifi)
+T561        Tab E 9.6           # SM-T561 (gtel3g)
 
 # Samsung Galaxy Tab Active
 T365        Tab Active          # SM-T365F0 (rubensltekx)   # released in 2014
