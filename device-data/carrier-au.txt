@@ -58,6 +58,7 @@ SHV47       Sharp AQUOS zero2
 SHV48       Sharp AQUOS sense3 basic
 
 SHG01       Sharp AQUOS R5G
+SHG02       Sharp AQUOS zero5G basic DX
 SHG03       Sharp AQUOS sense5G
 
 # Kyocera

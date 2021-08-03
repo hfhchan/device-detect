@@ -15,6 +15,7 @@ T520        Tab Pro 10.1        # SM-T520 (picassowifi)     # released in 2014 Q
 # Samsung Galaxy Note (Tablets)
 P600        Note 10.1 (2014)    # SM-P600 (lt03wifi)        # released in 2013 Q4
 P900        Note Pro 12.2       # SM-P900 (v1awifi)         # released in 2014 Q1
+P905        Note Pro 12.2       # SM-P905 (viennalte)       # released in 2014 Q1
 
 # Samsung Galaxy Tab S (8.0")
 T700        Tab S 8.4           # SM-T700 (klimtwifi)

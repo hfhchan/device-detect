@@ -1,5 +1,7 @@
-# J Series (J1/J3/J5/J7)
-J120        J1 (2016)        # SM-J120W (j1xltecan)
+# J Series (J1/J2/J3/J5/J7)
+J120        J1 (2016)       # SM-J120W (j1xltecan)
+
+J200        J2              # SM-J200G (j2lte)
 
 J320        J3 (2016)       # SM-J320F (j3xlte)
 J327        J3 Emerge       # SM-J327T1 (j3popeltemtr)
