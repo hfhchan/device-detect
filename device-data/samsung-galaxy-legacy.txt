@@ -1,0 +1,9 @@
+# Smartphones
+GT-I9305    S III           # GT-I9305 (m3)
+GT-I9060I   Grand Neo       # GT-I9060I (grandneove3g)
+
+# Note
+GT-N8000    Note 10.1       # GT-N8000 (p4noterf)
+
+# Tablets
+GT-P5210    Tab 3 10.1      # GT-P5210 (santos10wifi)

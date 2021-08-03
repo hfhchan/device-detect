@@ -19,6 +19,7 @@ A102SO      Sony Xperia 10 III
 701SH       Sharp AQUOS R compact
 704SH       Sharp シンプルスマホ4
 706SH       Sharp AQUOS R2
+801SH       Sharp AQUOS zero
 803SH       Sharp AQUOS R2 compact
 808SH       Sharp AQUOS R3
 901SH       Sharp AQUOS sense3 plus

@@ -9,6 +9,7 @@ ASUS_I002D                  Asus ZenFone 7
 ASUS_I004D                  Asus ZenFone 8
 ASUS_I006D                  Asus ZenFone 8 Mini
 
+ASUS_X00PD      ZB555KL     Asus ZenFone Max (M1)
 ASUS_X00TD                  Asus ZenFone Max Pro (M1)
 ASUS_X00TDB     ZB602KL     Asus ZenFone Max Pro (M1)
 ASUS_X018D      ZB570TL     Asus ZenFone Max Plus (M1)
@@ -16,6 +17,7 @@ ASUS_X01AD      ZB633KL     Asus ZenFone Max (M2)
 ASUS_X01BDA     ZB631KL     Asus ZenFone Max Pro (M2)
 
 ASUS_Z012DA     ZE552KL     Asus ZenFone 3
+ASUS_Z01MD      ZD552KL     Asus ZenFone 4 Selfie Pro
 ASUS_Z01RD                  Asus ZenFone 5Z
 
 ASUS_A001D      ZB634KL     Asus ZenFone Max Shot

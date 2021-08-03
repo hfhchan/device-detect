@@ -16,6 +16,7 @@ SCV48       Samsung Galaxy A41
 
 SCG01       Samsung Galaxy S20 5G
 SCG02       Samsung Galaxy S20+ 5G
+SCG04       Samsung Galaxy Z Flip 5G
 SCG06       Samsung Galaxy Note 20 Ultra 5G
 SCG07       Samsung Galaxy A51 5G
 SCG08       Samsung Galaxy A32 5G

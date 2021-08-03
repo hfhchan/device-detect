@@ -50,6 +50,7 @@ A507        A50s            # a50s (SM-A507FN)
 
 M105        M10             # m10lte (SM-M105F)
 M205        M20             # m20lte (SM-M205F)
+M305        M30             # m30lte (SM-M305F)
 
 M307        M30s            # m30s (SM-M307F)
 

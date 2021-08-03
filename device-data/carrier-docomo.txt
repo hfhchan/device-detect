@@ -67,6 +67,7 @@ SH-03G      Sharp AQUOS ZETA
 SH-03J      Sharp AQUOS R
 SH-03K      Sharp AQUOS R2
 SH-04G      Sharp AQUOS EVER
+SH-04H      Sharp AQUOS ZETA
 SH-04L      Sharp AQUOS R3
 SH-41A      Sharp AQUOS sense4
 SH-51A      Sharp AQUOS R5G
