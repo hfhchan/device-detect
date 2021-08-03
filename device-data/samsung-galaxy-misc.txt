@@ -17,6 +17,8 @@ G386        Avant           # SM-G386T (afyonltetmo)
 G390        Xcover 4        # SM-G390F (xcover4lte)
 G398        Xcover 4s       # SM-G398FN (xcover4s)
 
+C101        S4 zoom         # SM-C101 (mproject3g)
+
 # J and On series
 G532        J2 Prime        # SM-G532M (grandpplte)
 G570        J5 Prime        # SM-G570M (on5xelte)

@@ -18,6 +18,7 @@ TB-X606XA           Lenovo Smart Tab M10 FHD Plus       # with Alexa
 
 YT-X705F            Lenovo Yoga Smart Tab YT-X705F
 YT3-X50F            Lenovo Yoga Tab 3
+YT-X703X            Lenovo Yoga Tab 3 Plus
 
 PB1-770M            Lenovo Phab Plus
 PB2-650M            Lenovo Phab2
@@ -27,6 +28,7 @@ Tab2A7-20F          Lenovo TAB 2 A7
 			
 # Smartphones
 A6010               Lenovo A6010
+L19111              Lenovo A7
 K50a40              Lenovo K3 Note
 
 # Tablet

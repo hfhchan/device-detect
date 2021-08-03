@@ -1,5 +1,7 @@
 # Flagships
 A0001       OnePlus One
+E1003       OnePlus X
+
 A3003       OnePlus 3
 A3010       OnePlus 3T
 A5000       OnePlus 5

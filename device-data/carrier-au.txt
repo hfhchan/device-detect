@@ -24,6 +24,8 @@ SCG09       Samsung Galaxy S21 5G
 SCG10       Samsung Galaxy S21+ 5G
 
 # Sony
+SOL26       Sony Xperia Z3
+
 SOV32       Sony Xperia Z5
 SOV33       Sony Xperia X Performance
 SOV34       Sony Xperia XZ
@@ -61,10 +63,12 @@ SHG03       Sharp AQUOS sense5G
 # Kyocera
 # c.f: https://ja.wikipedia.org/wiki/DIGNO#機種
 KYY23       Kyocera URBANO L03
+KYY24       Kyocera TORQUE G01
 
 KYV31       Kyocera URBANO V01
 KYV34       Kyocera URBANO V02
 KYV38       Kyocera URBANO V03
+KYV41       Kyocera TORQUE G03
 KYV42       Kyocera Qua phone QX
 KYV43       Kyocera BASIO3
 KYV45       Kyocera URBANO V04

@@ -42,6 +42,7 @@ MYA-L22     Huawei Y5 (2017)
 AMN-LX9     Huawei Y5 (2019)
 DRA-LX2     Huawei Y5 Prime (2018)
 DRA-LX3     Huawei Y5 Prime (2018)
+CAM-L21     Huawei Y6II Compact
 ATU-L21     Huawei Y6 (2018)
 MRD-LX1F    Huawei Y6 (2019)
 JAT-LX1     Huawei Y6s (2019)
@@ -55,12 +56,14 @@ NEM-L51     Huawei Honor 5c
 KIW-L21     Huawei Honor 5X
 BLL-L22     Huawei Honor 6X/Mate 9 Lite
 PE-TL10     Huawei Honor 6 Plus
+PLK-L01     Huawei Honor 7
 AUM-L41     Huawei Honor 7C
 DUA-L22     Huawei Honor 7S
 BND-L21     Huawei Honor 7X
 FRD-L09     Huawei Honor 8
 KSA-LX9     Huawei Honor 8S
 DUK-L09     Huawei Honor 8 Pro
+JSN-AL00a   Huawei Honor 8X
 JSN-L22     Huawei Honor 8X/9X Lite
 STF-L09     Huawei Honor 9
 LLD-L31     Huawei Honor 9 Lite
@@ -77,6 +80,7 @@ RVL-AL09    Huawei Honor Note 10
 FIG-LX1     Huawei P smart/Huawei Enjoy 7S
 POT-LX1     Huawei P Smart 2019
 
+PIC-LX9     Huawei nova 2
 PAR-LX9     Huawei nova 3
 INE-LX1     Huawei nova 3i
 INE-LX2     Huawei nova 3i
@@ -88,12 +92,14 @@ MT7-TL10    Huawei Ascend Mate7
 Y541-U02    Huawei Y5c
 
 # Tablets
+T1-A21L     Huawei MediaPad T1 10
 AGS-L09     Huawei MediaPad T3 10
 AGS2-W09    Huawei MediaPad T5
 BAH2-W19    Huawei MediaPad M5 Lite
 BG2-U01     Huawei MediaPad T3 7.0
 CMR-AL19    Huawei MediaPad M5 10 Pro
 JDN2-L09    Huawei MediaPad M5 Lite 8.0
+KOB-L09     Huawei MediaPad T3 8.0
 
 M2-802L     Huawei MediaPad M2 8.0
 M2-A01L     Huawei MediaPad M2 10.0

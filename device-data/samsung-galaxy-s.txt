@@ -1,6 +1,7 @@
 # Flagship Devices
 G900        S5              # SM-G900F (klte)
 G901        S5              # SM-G901F (kccat6)
+G903        S5 Neo          # SM-G903W (s5neoltecan)
 
 G920        S6              # SM-G920F (zeroflte)
 G925        S6 edge         # SM-G925F (zerolte)
