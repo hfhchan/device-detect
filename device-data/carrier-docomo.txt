@@ -88,6 +88,7 @@ DM-01K      LGE Disney Mobile DM-01K
 # LG
 L-01K       LG V30+
 L-01L       LG style2
+L-02K       LG V30+
 L-03K       LG style
 L-41A       LG style3
 L-51A       LG V60 ThinQ 5G

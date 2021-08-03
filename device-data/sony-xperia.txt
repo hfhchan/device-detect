@@ -1,6 +1,7 @@
 # Smartphones
 C6833       Sony Xperia Z Ultra
 D6503       Sony Xperia Z2
+E5823       Sony Xperia Z5 Compact
 F3113       Sony Xperia XA
 F5121       Sony Xperia X
 F5122       Sony Xperia X
@@ -31,6 +32,7 @@ I4113       Sony Xperia 10
 I4293       Sony Xperia 10 Plus
 I4312       Sony Xperia L3
 J3173       Sony Xperia Ace
+J8170       Sony Xperia 1
 J9110       Sony Xperia 1
 J9210       Sony Xperia 5
 J9260       Sony Xperia 5 Dual

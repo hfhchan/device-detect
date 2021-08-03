@@ -18,6 +18,7 @@ ASUS_X01AD      ZB633KL     Asus ZenFone Max (M2)
 ASUS_X01BDA     ZB631KL     Asus ZenFone Max Pro (M2)
 
 ASUS_Z012DA     ZE552KL     Asus ZenFone 3
+ASUS_Z01GD      ZS551KL     Asus ZenFone 4 Pro 
 ASUS_Z01MD      ZD552KL     Asus ZenFone 4 Selfie Pro
 ASUS_Z01RD                  Asus ZenFone 5Z
 
