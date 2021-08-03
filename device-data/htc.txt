@@ -7,3 +7,4 @@ imedugl         2Q55100     HTC U12+
 imldugl         2Q6E100     HTC U12 life
 flhdugl                     HTC U20 5G
 a32eulatt                   HTC Desire 626
+a17uhl                      HTC Desire 650

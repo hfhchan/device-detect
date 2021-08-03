@@ -4,6 +4,7 @@ J327        J3 Pro          # SM-J327T1 (j3popeltemtr)
 J330        J3 (2017)       # SM-J330F (j3y17lte)
 J337        J3 (2018)       # SM-J337P (j3topeltespr)
 
+J500        J5              # SM-J500M (j5lte)
 J510        J5 (2016)       # SM-J510FN (j5xnlte)
 J530        J5 (2017)       # SM-J530F (j5y17lte)
 

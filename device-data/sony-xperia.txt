@@ -27,10 +27,12 @@ I4312       Sony Xperia L3
 J3173       Sony Xperia Ace
 J9110       Sony Xperia 1
 J9210       Sony Xperia 5
+J9260       Sony Xperia 5 Dual
 
 XQ-AQ62     Sony Xperia PRO
 XQ-AS52     Sony Xperia 5 II
 XQ-AT42     Sony Xperia 1 II
+XQ-AT51     Sony Xperia 1 II
 XQ-AT52     Sony Xperia 1 II
 XQ-AU52     Sony Xperia 10 II
 XQ-BT52     Sony Xperia 10 III

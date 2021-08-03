@@ -1,6 +1,8 @@
 # Tablets
+TB-7305I            Lenovo Tab M7
 TB-7305F            Lenovo Tab M7
 TB-7504X            Lenovo Tab 7
+TB-8304F1           Lenovo Tab E 8
 TB-8504F            Lenovo Tab 4 8
 TB-8505F            Lenovo Tab M8 HD
 TB-8505FS           Lenovo Tab M8 HD
@@ -21,6 +23,7 @@ PB1-770M            Lenovo Phab Plus
 PB2-650M            Lenovo Phab2
 PB2-670M            Lenovo Phab2 Plus
 
+Tab2A7-20F          Lenovo TAB 2 A7
 			
 # Smartphones
 A6010               Lenovo A6010

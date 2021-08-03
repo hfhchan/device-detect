@@ -5,6 +5,8 @@ G850        Alpha           # SM-G850W (sltecan)
 A310        A3 (2016)       # SM-A310F (a3xelte)
 A510        A5 (2016)       # SM-A510F (a5xelte)
 A710        A7 (2016)       # SM-A710L (a7xeltelgt)
+A810        A8 (2016)       # SM-A810S (a8xelteskt)
+A910        A9 Pro (2016)   # SM-A910F (a9xproltesea)
 
 # Samsung Galaxy A Series (Third Generation - 2017)
 A320        A3 (2017)       # SM-A320FL (a3y17lte)
@@ -67,6 +69,7 @@ A716        A71 5G          # a71xq (SM-A716U)
 
 A217        A21s            # a21s (SM-A217M)
 
+M015        M01             # m01q (SM-M015G)
 M115        M11             # m11q (SM-M115F)
 M215        M21             # m21 (SM-M215F)
 M315        M31             # m31 (SM-M315F)

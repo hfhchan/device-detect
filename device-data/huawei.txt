@@ -13,9 +13,11 @@ ELS-NX9     Huawei P40 Pro
 ALE-L21     Huawei P8 Lite
 PRA-LX1     Huawei P8 Lite (2017)
 SLA-L22     Huawei P9 Lite Mini
+VNS-L31     Huawei P9 Lite
 WAS-LX1A    Huawei P10 Lite
 ANE-LX1     Huawei P20 Lite
 MAR-LX1A    Huawei P30 Lite
+JNY-LX1     Huawei P40 Lite
 
 # Mate Series
 MHA-L29     Huawei Mate 9
@@ -50,6 +52,7 @@ KIW-L21     Huawei Honor 5X
 BLL-L22     Huawei Honor 6X/Mate 9 Lite
 PE-TL10     Huawei Honor 6 Plus
 AUM-L41     Huawei Honor 7C
+DUA-L22     Huawei Honor 7S
 BND-L21     Huawei Honor 7X
 FRD-L09     Huawei Honor 8
 DUK-L09     Huawei Honor 8 Pro

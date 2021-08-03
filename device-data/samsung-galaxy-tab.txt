@@ -1,4 +1,5 @@
 # Samsung Galaxy Tab 3
+T113        Tab 3 V             # SM-T113NU (goyavewifixtc)
 T116        Tab 3 V             # SM-T116 (goyave3g)
 T310        Tab 3 8.0           # SM-T310 (lt01wifi)
 
@@ -22,6 +23,7 @@ T715        Tab S2 8.0          # SM-T715 (gts28lte)
 T800        Tab S 10.5          # SM-T800 (chagallwifi)
 T813        Tab S2 9.7          # SM-T813 (gts210vewifi)
 T817        Tab S2 9.7          # SM-T817V (gts210ltevzw)
+T819        Tab S2 9.7          # SM-T819 (gts210velte)
 T820        Tab S3 9.7          # SM-T820 (gts3lwifi)
 T825        Tab S3 9.7          # SM-T825 (gts3llte)
 T830        Tab S4 10.5         # SM-T830 (gts4lwifi)

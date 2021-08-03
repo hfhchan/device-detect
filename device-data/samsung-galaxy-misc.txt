@@ -16,6 +16,7 @@ G361        Core Prime      # SM-G361H (coreprimeve3g)
 G390        Xcover 4        # SM-G390F (xcover4lte)
 G398        Xcover 4s       # SM-G398FN (xcover4s)
 
+GT-I9305    S III           # GT-I9305 (m3)
 GT-I9060I   Grand Neo       # GT-I9060I (grandneove3g)
 GT-N8000    Note 10.1       # GT-N8000 (p4noterf)
 
