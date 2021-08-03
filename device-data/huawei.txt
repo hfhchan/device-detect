@@ -26,6 +26,7 @@ MHA-L29     Huawei Mate 9
 ALP-L29     Huawei Mate 10
 HMA-L29     Huawei Mate 20
 EVR-L29     Huawei Mate 20 X
+TAS-L29     Huawei Mate 30
 
 LON-L29     Huawei Mate 9 Pro
 BLA-L29     Huawei Mate 10 Pro
@@ -79,6 +80,8 @@ BKL-L09     Huawei Honor View 10
 PCT-L29     Huawei Honor View 20
 
 RVL-AL09    Huawei Honor Note 10
+
+COR-L29     Huawei Honor Play
 
 # Other smartphones
 FIG-LX1     Huawei P smart/Huawei Enjoy 7S

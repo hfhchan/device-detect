@@ -1,4 +1,5 @@
 # HTC
+m8                          HTC One M8
 m8whl                       HTC One M8
 himauhl                     HTC One M9
 pmewhl          2PS64       HTC 10

@@ -38,5 +38,6 @@ G781        S20 FE 5G       # SM-G781U (r8q)
 
 # G8xx
 G800        S5 mini         # SM-G800F (kminilte)
+G870        S5 Active       # SM-G870W (kltecanactive)
 G891        S7 Active       # SM-G891A (poseidonlteatt)
 G892        S8 Active       # SM-G892U (cruiserltesq)
