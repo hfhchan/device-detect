@@ -1,0 +1,32 @@
+# arrows
+F-51A           Fujitsu arrows 5G
+
+# arrows NX
+F-01F           Fujitsu arrows NX F-01F
+F-01J           Fujitsu arrows NX F-01J
+F-01K           Fujitsu arrows NX F-01K
+F-02H           Fujitsu arrows NX F-02H
+F-04G           Fujitsu arrows NX F-04G
+F-05F           Fujitsu arrows NX F-05F
+F-52A           Fujitsu arrows NX9
+
+# arrows SV
+F-03H           Fujitsu arrows SV F-03H
+
+# arrows Be
+F-04K           Fujitsu arrows Be F-04K
+F-05J           Fujitsu arrows Be F-05J
+F-02L           Fujitsu arrows Be3 F-02L
+F-41A           Fujitsu arrows Be4 F-41A
+F-41B           Fujitsu arrows Be4 Plus F-41B
+
+# arrows Tab
+F-02K           Fujitsu arrows Tab F-02K
+F-03G           Fujitsu arrows Tab F-03G
+F-04H           Fujitsu arrows Tab F-04H
+
+# Rakuraku Smartphone
+F-01L           Fujitsu らくらくスマートフォン me F-01L
+F-03K           Fujitsu らくらくスマートフォン me F-03K
+F-04J           Fujitsu らくらくスマートフォン 4 F-04J
+F-42A           Fujitsu らくらくスマートフォン F-42A

@@ -33,6 +33,16 @@ A003SH      Sharp AQUOS sense4 basic
 A004SH      Sharp AQUOS sense5G
 A101SH      Sharp AQUOS R6
 
+# Fujitsu
+801FJ       Fujitsu arrows U
+
+# Kyocera
+503KC       Kyocera Digno E
+602KC       Kyocera Digno G
+704KC       Kyocera Digno J
+705KC       Kyocera かんたんスマホ
+901KC       Kyocera Digno BX
+
 # Oppo
 A101OP      Oppo Reno5 A
 

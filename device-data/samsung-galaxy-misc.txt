@@ -13,10 +13,12 @@ C900        C9 Pro          # SM-C900F (c9lte)
 E500        E5              # SM-E500H (e53g)
 
 # Misc
+G318        V Plus          # SM-G318ML (vivalto3mveml3g)
 G361        Core Prime      # SM-G361H (coreprimeve3g)
 G386        Avant           # SM-G386T (afyonltetmo)
 G390        Xcover 4        # SM-G390F (xcover4lte)
 G398        Xcover 4s       # SM-G398FN (xcover4s)
+G710        Grand 2         # SM-G710S (ms01lteskt)
 
 C101        S4 zoom         # SM-C101 (mproject3g)
 

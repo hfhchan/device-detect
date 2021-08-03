@@ -1,4 +1,5 @@
 # HTC
+hiaeuhl                     HTC One A9
 m8                          HTC One M8
 m8whl                       HTC One M8
 himauhl                     HTC One M9

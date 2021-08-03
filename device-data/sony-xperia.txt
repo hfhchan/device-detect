@@ -1,5 +1,7 @@
 # Smartphones
+C5503       Sony Xperia ZR
 C6833       Sony Xperia Z Ultra
+D2303       Sony Xperia M2
 D6503       Sony Xperia Z2
 E2105       Sony Xperia E4
 E5823       Sony Xperia Z5 Compact
@@ -33,6 +35,7 @@ H8296       Sony Xperia XZ2 Dual
 H8314       Sony Xperia XZ2 Compact
 H8324       Sony Xperia XZ2 Compact
 H8416       Sony Xperia XZ3
+H9436       Sony Xperia XZ3
 H9493       Sony Xperia XZ3
 I4113       Sony Xperia 10
 I4293       Sony Xperia 10 Plus

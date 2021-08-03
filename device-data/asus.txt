@@ -1,6 +1,14 @@
 # Zenfone
+ASUS_Z00AD      ZE551ML     Asus ZenFone 2
+ASUS_Z012DA     ZE552KL     Asus ZenFone 3
 ASUS_Z017DA     ZE520KL     Asus ZenFone 3
+ASUS_Z01GD      ZS551KL     Asus ZenFone 4 Pro
+ASUS_Z01KD      ZE554KL     Asus ZenFone 4
 ASUS_Z01KDA     ZE554KL     Asus ZenFone 4
+ASUS_Z01MD      ZD552KL     Asus ZenFone 4 Selfie Pro
+ASUS_Z01RD      ZS620KL     Asus ZenFone 5Z
+
+ASUS_X008D      ZC520TL     Asus ZenFone 3 Max
 ASUS_X00HD      ZC520KL     Asus ZenFone 4 Max
 ASUS_X00LD      ZD553KL     Asus ZenFone 4 Selfie
 ASUS_X00QD      ZE620KL     Asus ZenFone 5
@@ -17,13 +25,6 @@ ASUS_X018D      ZB570TL     Asus ZenFone Max Plus (M1)
 ASUS_X01AD      ZB633KL     Asus ZenFone Max (M2)
 ASUS_X01BDA     ZB631KL     Asus ZenFone Max Pro (M2)
 
-ASUS_Z00AD      ZE551ML     Asus ZenFone 2
-ASUS_Z012DA     ZE552KL     Asus ZenFone 3
-ASUS_Z01GD      ZS551KL     Asus ZenFone 4 Pro
-ASUS_Z01KD      ZE554KL     Asus ZenFone 4
-ASUS_Z01MD      ZD552KL     Asus ZenFone 4 Selfie Pro
-ASUS_Z01RD      ZS620KL     Asus ZenFone 5Z
-
 ASUS_A001D      ZB634KL     Asus ZenFone Max Shot
 
 ASUS_X00RD      G553KL      Asus ZenFone Lite L1
@@ -38,6 +39,7 @@ ASUS_I005DA                 Asus ROG Phone 5
 P002            Z370KL      Asus ZenPad 7.0
 P024            Z380KL      Asus ZenPad 8.0
 P008            Z581KL      Asus ZenPad 3 8.0
+P00A            Z380M       Asus ZenPad 8.0
 P00C            Z300M       Asus ZenPad 10
 P00I            ZT500KL     Asus ZenPad Z10
 P00L            Z301ML      Asus Zenpad 10 

@@ -9,7 +9,9 @@ TB-8505FS           Lenovo Tab M8 HD
 TB-8505XS           Lenovo Smart Tab M8
 TB-8705F            Lenovo Tab M8 FHD
 TB-J606L            Lenovo Tab P11
+TB-J606F            Lenovo Tab P11
 TB-X104F            Lenovo Tab E10
+TB-X304L            Lenovo Tab 4 10
 TB-X306F            Lenovo Tab M10
 TB-X505F            Lenovo Tab M10
 TB-X505L            Lenovo Tab M10 HD
@@ -26,6 +28,7 @@ PB2-650M            Lenovo Phab2
 PB2-670M            Lenovo Phab2 Plus
 
 TB2-X30F            Lenovo TAB 2 A10-30
+A10-70L             Lenovo TAB 2 A10-70
 
 Tab2A7-20F          Lenovo TAB 2 A7
 			

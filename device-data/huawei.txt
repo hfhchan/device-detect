@@ -100,6 +100,8 @@ MT7-TL10    Huawei Ascend Mate7
 
 Y541-U02    Huawei Y5c
 
+NMO-L31     Huawei GT3
+
 # Tablets
 T1-701u     Huawei MediaPad T1 7.0 Plus
 T1-A21L     Huawei MediaPad T1 10
