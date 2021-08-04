@@ -1,49 +1,45 @@
 # Tablets
-TB-7305I            Lenovo Tab M7
-TB-7305F            Lenovo Tab M7
-TB-7504X            Lenovo Tab 7
-TB-8304F1           Lenovo Tab E 8
-TB-8504F            Lenovo Tab 4 8
-TB-8505F            Lenovo Tab M8 HD
-TB-8505FS           Lenovo Tab M8 HD
-TB-8505XS           Lenovo Smart Tab M8
-TB-8705F            Lenovo Tab M8 FHD
-TB-J606L            Lenovo Tab P11
-TB-J606F            Lenovo Tab P11
-TB-X104F            Lenovo Tab E10
-TB-X304L            Lenovo Tab 4 10
-TB-X306F            Lenovo Tab M10
-TB-X505F            Lenovo Tab M10
-TB-X505L            Lenovo Tab M10 HD
-TB-X606F            Lenovo Smart Tab M10 FHD Plus
-TB-X606X            Lenovo Smart Tab M10 FHD Plus
-TB-X606XA           Lenovo Smart Tab M10 FHD Plus       # with Alexa
+7305I       TB-7305I            Lenovo Tab M7
+7305F       TB-7305F            Lenovo Tab M7
+TB-7504X    TB-7504X            Lenovo Tab 7
+TB-8304F1   TB-8304F1           Lenovo Tab E 8
+TB-8504F    TB-8504F            Lenovo Tab 4 8
+8505F       TB-8505F            Lenovo Tab M8 HD
+8505FS      TB-8505FS           Lenovo Tab M8 HD
+8505XS      TB-8505XS           Lenovo Smart Tab M8
+8705F       TB-8705F            Lenovo Tab M8 FHD
+J606L       TB-J606L            Lenovo Tab P11
+J606F       TB-J606F            Lenovo Tab P11
+X104F       TB-X104F            Lenovo Tab E10
+X304L       TB-X304L            Lenovo Tab 4 10
+TB-X505F    TB-X505F            Lenovo Tab M10
+X606F       TB-X606F            Lenovo Smart Tab M10 FHD Plus
+X606X       TB-X606X            Lenovo Smart Tab M10 FHD Plus
+X606XA      TB-X606XA           Lenovo Smart Tab M10 FHD Plus       # with Alexa
 
-YT-X705F            Lenovo Yoga Smart Tab YT-X705F
-YT3-X50F            Lenovo Yoga Tab 3
-YT-X703X            Lenovo Yoga Tab 3 Plus
+YT-X705F    YT-X705F            Lenovo Yoga Smart Tab YT-X705F
+YT-X703X    YT-X703X            Lenovo Yoga Tab 3 Plus
 
-PB1-770M            Lenovo Phab Plus
-PB2-650M            Lenovo Phab2
-PB2-670M            Lenovo Phab2 Plus
+PB1-770M    PB1-770M            Lenovo Phab Plus
+PB2         PB2-650M            Lenovo Phab2
+PB2-670M    PB2-670M            Lenovo Phab2 Plus
 
-TB2-X30F            Lenovo TAB 2 A10-30
-A10-70L             Lenovo TAB 2 A10-70
+TB2-X30F    TB2-X30F            Lenovo TAB 2 A10-30
+A10-70L     A10-70L             Lenovo TAB 2 A10-70
 
-Tab2A7-20F          Lenovo TAB 2 A7
+Tab2A7-20F  Tab2A7-20F          Lenovo TAB 2 A7
 			
 # Smartphones
-A6010               Lenovo A6010
-L19111              Lenovo A7
-L38043              Lenovo K9
-P1a42               Lenovo Vibe P1
-K50a40              Lenovo K3 Note
+A6010       A6010               Lenovo A6010
+AK47        L19111              Lenovo A7
+K9          L38043              Lenovo K9
+P1a42       P1a42               Lenovo Vibe P1
+K50a40      K50a40              Lenovo K3 Note
 
 # Tablet
-A3500-F             Lenovo A7-50 Tablet                 # Wi-Fi
-A3500-H             Lenovo A7-50 Tablet                 # Wi-Fi & 3G (Data only)
-A3500-HV            Lenovo A7-50 Tablet                 # Wi-Fi & 3G (Voice)
+A3500H      A3500-H             Lenovo A7-50 Tablet                 # Wi-Fi & 3G (Data only)
+A3500HV     A3500-HV            Lenovo A7-50 Tablet                 # Wi-Fi & 3G (Voice)
 
 # MEDION Tablets
-LIFETAB E1070X      Medion LifeTab E1070X
-LIFETAB E1071X      Medion LifeTab E1071X
+E1070X      LIFETAB E1070X      Medion LifeTab E1070X
+E1071X      LIFETAB E1071X      Medion LifeTab E1071X

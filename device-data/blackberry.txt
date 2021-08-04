@@ -1,0 +1,4 @@
+venice          STV100-4        BlackBerry Priv
+bbb100          BBB100-2        BlackBerry Keyone
+bbe100          BBE100-4        BlackBerry KEY2 LE
+bbf100          BBF100-2        BlackBerry KEY2
