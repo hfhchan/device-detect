@@ -4,6 +4,7 @@ C6833       Sony Xperia Z Ultra
 D2303       Sony Xperia M2
 D6503       Sony Xperia Z2
 E2105       Sony Xperia E4
+E5606       Sony Xperia M5
 E5823       Sony Xperia Z5 Compact
 F3113       Sony Xperia XA
 F5121       Sony Xperia X

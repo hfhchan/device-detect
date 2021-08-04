@@ -1,0 +1,41 @@
+# Realme (Oppo)
+RE50C1          RMX2103         realme 7i
+RMX1811         RMX1811         realme C1
+RMX1821         RMX1821         realme 3
+RMX1911         RMX1911         realme 5
+RMX1921         RMX1921         realme XT
+RMX1931CN       RMX1931         realme X2 Pro
+RMX1931L1       RMX1931         realme X2 Pro
+RMX1971         RMX1971         realme 5 Pro
+RMX1971CN       RMX1971         realme 5 Pro            # released as realme Q
+RMX1971L1       RMX1971         realme 5 Pro
+RMX1991CN       RMX1991         realme X2
+RMX2001L1       RMX2001         realme 6
+RMX2002L1       RMX2002         realme 6s
+RMX2020         RMX2020         realme C3
+RMX2021         RMX2021         realme C3
+RMX2027         RMX2027         realme C3
+RMX2040         RMX2040         realme 6i
+RMX2042         RMX2042         realme 6i
+RMX2050         RMX2050         realme narzo 20A
+RMX2061L1       RMX2061         realme 6 Pro
+RMX2063L1       RMX2063         realme 6 Pro
+RMX2075L1       RMX2075         realme X50 Pro
+RMX2111L1       RMX2111         realme 7 5G
+RMX2151L1       RMX2151         realme 7
+RMX2161L1       RMX2161         realme narzo 20 Pro
+RMX2163L1       RMX2163         realme 7
+RMX2170L1       RMX2170         realme 7 Pro
+RMX2185         RMX2185         realme C11
+RMX2189         RMX2189         realme C12
+RMX2193         RMX2193         realme narzo 20
+RECE4244        RMX2195         realme C15 Qualcomm Edition
+RMX2202L1       RMX2202         realme GT 5G
+RMX3081L1       RMX3081         realme 8 Pro
+RMX3085L1       RMX3085         realme 8
+RMX3171         RMX3171         realme narzo 30A
+RMX3191         RMX3191         realme C25
+RMX3195         RMX3195         realme C25s
+RMX3201         RMX3201         realme C21
+RMX3231         RMX3231         realme C11 2021
+
